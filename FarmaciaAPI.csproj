@@ -14,8 +14,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FarmaciaAPI.Data\FarmaciaAPI.Data.csproj" />
-    <ProjectReference Include="..\FarmaciaAPI.Model\FarmaciaAPI.Model.csproj" />
+    <ProjectReference Include="FarmaciaAPI.Data\FarmaciaAPI.Data.csproj" />
+    <ProjectReference Include="FarmaciaAPI.Model\FarmaciaAPI.Model.csproj" />
   </ItemGroup>
 
 </Project>
