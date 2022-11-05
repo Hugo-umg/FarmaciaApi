@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.32630.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FarmaciaAPI", "FarmaciaAPI.csproj", "{731E2761-5DE7-4993-B39F-948FED872E96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmaciaAPI.Data", "FarmaciaAPI.Data\FarmaciaAPI.Data.csproj", "{A912F0CE-610D-4BEB-B2B8-F80ACD058003}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmaciaAPI.Data", "..\FarmaciaAPI.Data\FarmaciaAPI.Data.csproj", "{A912F0CE-610D-4BEB-B2B8-F80ACD058003}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmaciaAPI.Model", "FarmaciaAPI.Model\FarmaciaAPI.Model.csproj", "{CA3B2B6C-8186-4AE7-806D-F9D90183B23D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmaciaAPI.Model", "..\FarmaciaAPI.Model\FarmaciaAPI.Model.csproj", "{CA3B2B6C-8186-4AE7-806D-F9D90183B23D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
